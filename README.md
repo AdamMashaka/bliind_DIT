@@ -5,7 +5,7 @@ Blind stick is the FYP project that deal with connecting of Robotics and AI/ML t
 
 **Team Members:**
 - Adam .M. Katani
-- Github: @AdamMAshaka,
+- Github: @AdamMAshaka 
 Email: mashakaadam123@gmail.com
 
 -Ramadan Kidola
