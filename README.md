@@ -12,6 +12,10 @@ Blind stick is the FYP project that deal with connecting of Robotics and AI/ML t
 -Github: @dollatron
 -Email:      
 
+kind of flow chart we will use is 
+<img src="sample.png" alt="drawing" width="400" height="200"/>
+
+
 ## Technologies Used
 
 - Python for intergration of Web camera and Object.
