@@ -13,7 +13,7 @@ Blind stick is the FYP project that deal with connecting of Robotics and AI/ML t
 -Email:      
 
 kind of flow chart we will use is 
-<img src="sample.png" alt="drawing" width="400" height="200"/>
+<img src="blind.pdf" alt="drawing" width="400" height="200"/>
 
 
 ## Technologies Used
