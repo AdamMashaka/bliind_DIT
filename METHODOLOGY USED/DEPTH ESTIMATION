@@ -29,4 +29,4 @@ then it can be concluded that the object is too close from the particular person
 With this code, relative distance of the object from a particular person can be calculated. 
 After the detection of object the code is used to determine the relative distance of the object from the person. 
 If the object is too close then signal or a warning is issued to the person through voice generation module.
-
+     #GIVE CREDIT TO ADAM KATANI
