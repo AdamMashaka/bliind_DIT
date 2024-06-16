@@ -41,6 +41,6 @@ kind of flow chart we will use is
 **Repository:** [GitHub Repository](https://github.com/AdamMashaka/bliind_DIT)
 **Demo:** [Live Demo](https://)
 
-## Judging from Lecture
+##  GIVE CREDIT TO ADAM KATANI
 
 
